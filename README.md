@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on @sensie-app
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/junho-lee-6ab33516a/)
+- 🏠 Check my blog too: [Blog](https://joonito.github.io/)
 <!--
 **joonito/joonito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
